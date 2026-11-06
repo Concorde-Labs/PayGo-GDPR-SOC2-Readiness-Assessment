@@ -37,11 +37,9 @@ The assessment distinguishes identified weaknesses from areas where additional e
 
 ## Project Deliverables
 
-- GDPR Data Mapping and Gap Assessment
-- SOC 2 Readiness and Evidence Assessment
-- Integrated GDPR and SOC 2 Remediation Plan
-
-*Links to the detailed assessment documents will be added as the repository is organized.*
+1. [GDPR Data Mapping & Gap Assessment](01-GDPR-Data-Mapping-and-Gap-Assessment.md)
+2. [SOC 2 Readiness & Evidence Assessment](02-SOC2-Readiness-and-Evidence-Assessment.md)
+3. [Integrated GDPR & SOC 2 Remediation Plan](03-Integrated-Remediation-Plan.md)
 
 ## Skills Demonstrated
 

@@ -7,17 +7,7 @@
 
 ---
 
-## 1. Executive Summary
-
-This assessment evaluates PayGo Financial Technologies Ltd.'s readiness against selected SOC 2 Trust Services Criteria (TSC), focusing on Security, Availability and Confidentiality.
-
-The review examines seven key control areas: access management, multi-factor authentication (MFA), security monitoring, incident response, change management, backup and recovery, and third-party risk management.
-
-The assessment identified weaknesses in access governance, incident response testing, change documentation and vendor oversight. Additional evidence is required to establish the effectiveness of MFA, security monitoring, backup restoration and controls supporting availability and confidentiality commitments.
-
-The findings provide a basis for prioritizing remediation, strengthening audit evidence and improving SOC 2 readiness.
-
-## 2. Assessment Scope and Methodology
+## 1. Assessment Scope and Methodology
 
 The assessment covers the following Trust Services Categories:
 
@@ -36,7 +26,7 @@ The assessment covers the following Trust Services Categories:
 5. Evaluate potential risks to security, availability and confidentiality.
 6. Recommend corrective actions and supporting audit evidence.
 
-## 3. Security Trust Services Criteria Assessment
+## 2. Security Trust Services Criteria Assessment
 
 The Security category covers the nine Common Criteria groups, CC1–CC9.
 
@@ -90,7 +80,7 @@ Vendor security assessments and ongoing monitoring are incomplete.
 
 PayGo should maintain current vendor assessments, evaluate applicable security obligations and retain evidence of periodic reviews.
 
-## 4. Availability Readiness Assessment
+## 3. Availability Readiness Assessment
 
 Availability concerns whether systems and services remain operational and accessible in accordance with established commitments.
 
@@ -116,7 +106,7 @@ Additionally, the available information does not establish the organization's av
 
 These findings indicate areas requiring improvement or verification; they do not establish that PayGo's services are currently unavailable.
 
-## 5. Confidentiality Readiness Assessment
+## 4. Confidentiality Readiness Assessment
 
 Confidentiality focuses on protecting information designated as confidential from unauthorized access, use or disclosure.
 
@@ -142,7 +132,7 @@ Additional documentation is required to evaluate information classification, con
 - Review third-party confidentiality obligations and security controls.
 - Retain evidence demonstrating how confidentiality requirements are enforced.
 
-## 6. SOC 2 Evidence Register
+## 5. SOC 2 Evidence Register
 
 The following register identifies evidence required to support the assessment of control design and operating effectiveness.
 
@@ -170,7 +160,7 @@ For each control, supporting evidence should establish:
 
 The existence of a policy alone does not establish that the associated control is operating effectively.
 
-## 7. Risk Prioritization and Remediation
+## 6. Risk Prioritization and Remediation
 
 | Priority | Control Area | Risk / Concern | Recommended Remediation |
 |---|---|---|---|
@@ -185,7 +175,7 @@ The existence of a policy alone does not establish that the associated control i
 
 **Prioritization Basis:** These are recommended remediation priorities based on identified weaknesses, evidence limitations and potential business impact. They are not measured residual-risk scores.
 
-## 8. Recommended Readiness Improvements
+## 7. Recommended Readiness Improvements
 
 ### Immediate Priorities
 
@@ -204,7 +194,7 @@ The existence of a policy alone does not establish that the associated control i
 - Implement consistent evidence retention and control monitoring procedures.
 - Review corrective actions and outstanding control exceptions.
 
-## 9. Conclusion
+## 8. Conclusion
 
 The SOC 2 readiness assessment identified significant opportunities to strengthen PayGo's security governance, operational controls and audit evidence.
 

@@ -40,6 +40,8 @@ The assessment distinguishes identified weaknesses from areas where additional e
 1. [GDPR Data Mapping & Gap Assessment](01-GDPR-Data-Mapping-and-Gap-Assessment.md)
 2. [SOC 2 Readiness & Evidence Assessment](02-SOC2-Readiness-and-Evidence-Assessment.md)
 3. [Integrated GDPR & SOC 2 Remediation Plan](03-Integrated-Remediation-Plan.md)
+4. [GDPR & SOC 2 Assessment Workbook](PayGo-GDPR-SOC2-Workbook-Portfolio-Formatted.xlsx)
+5. [GDPR & SOC 2 Final Assessment Report](PayGo-GDPR-SOC2-Assessment-Report-Portfolio.pdf)
 
 ## Skills Demonstrated
 
